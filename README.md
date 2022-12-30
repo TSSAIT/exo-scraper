@@ -2,7 +2,7 @@
 Scrapes information of machines linked to an EXO5 account, outputs an XLSX file with that information.
 
 ## Instructions
-1. Ensure Python 3.7.x is installed
+1. Ensure Python 3.7 or newer is installed
 2. Install requirements in the project directory:
 `$ pip install -r requirements.txt`
 3. Edit USERNAME and PASSWORD variables in the scraper.py file
